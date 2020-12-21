@@ -1,5 +1,5 @@
 config:
-    info: "consuer-config-dev,v3"
+    info: "consuer-config-dev,v4"
 spring:
     rabbitmq:
         host: localhost
