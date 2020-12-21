@@ -1,2 +1,9 @@
 config:
     info: "provider-config-dev,v1"
+    
+spring:
+    rabbitmq:
+        host: localhost
+        port: 5672
+        username: guest
+        password: guest
