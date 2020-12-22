@@ -1,5 +1,5 @@
 config:
-    info: "provider-config-dev,v1"
+    info: "provider-config-dev,v1.0"
     
 spring:
     rabbitmq:
